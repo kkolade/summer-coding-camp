@@ -78,7 +78,7 @@ This is the website of Sprintplex Summer Coding camp, an outreach to the youth o
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo Link](https://kkolade.github.io/summer-coding-camp/index.html)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
