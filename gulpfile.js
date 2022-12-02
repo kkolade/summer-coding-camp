@@ -176,7 +176,7 @@ exports.build = gulp.parallel(
 function synch(done) {
   browserSync.init({
     server: {
-      baseDir: '../sprintplex-summer-coding-camp',
+      baseDir: './',
       index: 'index.html',
     },
     port: 3000,
